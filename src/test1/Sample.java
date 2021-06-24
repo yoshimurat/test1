@@ -7,5 +7,7 @@ public class Sample {
 		
 		System.out.println("foo");
 		System.out.println("zzz");
+		System.out.println("bar");
+
 	}
 }
