@@ -8,9 +8,14 @@ public class Sample {
 		System.out.println("foo");
 		System.out.println("zzz");
 		System.out.println("bar");
+
+		hage();
 		hoge();
 	}
 	
+	public static void hage() {
+		
+	}
 	private static void hoge() {
 		
 	}
